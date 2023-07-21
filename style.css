@@ -12,7 +12,7 @@ section{
 .container{
   background-color: rgb(13, 21, 14);
   width: 450px;
-  border-radius: 15px;
+  border-radius: 7px;
   
 }
 .btn{
@@ -70,5 +70,6 @@ form input, .form input{
   color: rgb(174, 68, 68);
   text-align: left !important;
   padding: 0 20px;
+  font-size: 12px;
 
 }
